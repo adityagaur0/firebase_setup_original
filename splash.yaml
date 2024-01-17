@@ -1,0 +1,17 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets/logos/Laserpay_Logo_(500 x 500).png
+  image_dark: assets/logos/Laserpay_Logo_(500 x 500).png
+
+  android_12: 
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: assets/logos/Laserpay_Logo_(500 x 500).png
+    image_dark: assets/logos/Laserpay_Logo_(500 x 500).png
+
+  web: false
+
+# in termial:
+#to add it    = flutter pub run flutter_native_splash:create --path=splash.yaml
+# to remove it= flutter pub run flutter_native_splash:remove
